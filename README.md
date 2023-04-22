@@ -1,4 +1,4 @@
-# My First Go Project
+# Gannit (Organizing Files CLI App)
 
 This is my first Go project, a CLI app for organizing files. When you run the command, it will reorganize all images, music, and documents to "Music", "Images", and "Documents" folders in the same directory. If the folders don't exist, they will be created.
 
