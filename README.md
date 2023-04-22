@@ -8,6 +8,7 @@ To install the app, clone the repo and build the binary:
 ```
 git clone https://github.com/m66are/gannit.git
 ```
+```
 cd gannit
 ```
 go build -o gannit
