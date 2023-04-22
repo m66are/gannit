@@ -11,10 +11,12 @@ git clone https://github.com/m66are/gannit.git
 ```
 cd gannit
 ```
+```
 go build -o gannit
 ```
 
 This will create an executable binary called `Gannit`. You can then run the app using the following command:
+
 ```
 ./gannit
 ```
